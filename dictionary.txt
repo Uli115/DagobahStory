@@ -1,0 +1,24 @@
+Raesfeld         |    Municipality, southern Germany
+Flughafen        |    Airport, also a quarter of Frankfurt, Germany
+Berlin           |    capital of Germany
+Bratwurst        |    type of sausage
+Hauptstrasse     |    Main Street
+Brot             |    Bread
+Klimaanlage      |    Air Conditioning
+Rammstein        |    Industrial Metal Band
+Porsche          |    Luxry sport car manufacturer
+BMW              |    Luxury car manufacturer
+Biergarten       |    Beer Garden, Outdoor drinking location
+Ratskeller       |    bar or restaurant in the basement of a town hall or nearby
+Dirndel          |    Traditional feminine german Dress
+Lederhose        |    Traditional masculine leather breeches
+Schloss          |    Lock
+wettbewerbsfaehig|    competitive
+Mehlhase         |    flour bunny
+Gebaeck          |    pastries
+Baeckerei        |    Bakery
+Hund             |    Hund
+Doener           |    Doner
+Apfelkuchen      |    Apple Pie
+Schloss          |    Castle
+Eltz             |    Specific Medieval castle
