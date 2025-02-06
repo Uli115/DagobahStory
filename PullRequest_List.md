@@ -6,3 +6,5 @@
 - Tameem Al Daradkah - https://github.com/eworwa1/ser316-group1-storytime/pull/9
 
 - Ali Alqahtani - https://github.com/tlthom28/team-rude-story/pull/2
+
+- Zachary Barlow - https://github.com/eworwa1/ser316-group1-storytime/pull/10
